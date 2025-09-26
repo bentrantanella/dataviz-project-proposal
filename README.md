@@ -47,8 +47,16 @@ The second visualization is another bar chart, this time showing age group versu
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+1. I'm not sure how to build a map of the US and apply data to it yet and don't know how hard it will be
+2. I don't know if the questions I'm asking will reveal any meaningful trends in the data
+3. I don't know whether the conclusions I will reach from the visualizations of the data can be taken as truth.
 
 ## Milestones
-
-(for each week, estimate what would be accomplised)
+Starting week: 9/25 - 10/1
+Will be working on repository ReadMe throughout all weeks
+Week 1: Determine specific trends that I want to analyze and begin research on how to visually show the US map
+Week 2: Build rough visualizations of data to see whether the trends actually show up
+Week 3: Begin rough setup of what will be the final product
+Week 4-7: Continue working on base visualization of final product
+Week 8-10: Implement interactive components of visualization
+Week 11-13: Optimize visualization for user understanding through user tests and finalize project report in repository readme
