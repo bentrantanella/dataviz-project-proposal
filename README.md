@@ -18,9 +18,6 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
-
 These first three sketches show various ideas of different ways to analyze and visualize the Boston Marathon data. The top sketch is ideally the starting point for the final product of this project, an interactive map of the US showing different information about the runners from the different geographic regions. One idea, shown in this sketch, is the percent change from 1st half split to 2nd half split of each runner, grouped and labled by arbitrary geographic regions that would be determined by the zip codes of the runners. The next sketch is an idea for showing the weather data compared to finishing time. The idea here is that as the temperature you are training in differs more and more from the race day temperature, your finishing time will go up. The last sketch is an idea on how to show the relationship between people in different age groups and how consistent their races were, graphing the average percent change of each age group.
 
 ![IMG_7580](https://github.com/user-attachments/assets/23ed10a6-5701-4f76-888c-1aab1d092df8)
