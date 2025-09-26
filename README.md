@@ -49,11 +49,11 @@ The second visualization is another bar chart, this time showing age group versu
 3. I don't know whether the conclusions I will reach from the visualizations of the data can be taken as truth.
 
 ## Milestones
-Starting week: 9/25 - 10/1
-Will be working on repository ReadMe throughout all weeks
-Week 1: Determine specific trends that I want to analyze and begin research on how to visually show the US map
-Week 2: Build rough visualizations of data to see whether the trends actually show up
-Week 3: Begin rough setup of what will be the final product
-Week 4-7: Continue working on base visualization of final product
-Week 8-10: Implement interactive components of visualization
-Week 11-13: Optimize visualization for user understanding through user tests and finalize project report in repository readme
+Starting week: 9/25 - 10/1  
+Will be working on repository ReadMe throughout all weeks  
+Week 1: Determine specific trends that I want to analyze and begin research on how to visually show the US map  
+Week 2: Build rough visualizations of data to see whether the trends actually show up  
+Week 3: Begin rough setup of what will be the final product  
+Week 4-7: Continue working on base visualization of final product  
+Week 8-10: Implement interactive components of visualization  
+Week 11-13: Optimize visualization for user understanding through user tests and finalize project report in repository readme  
